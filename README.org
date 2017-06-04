@@ -1,0 +1,5 @@
+#+TITLE: References
+#+AUTHOR: Mac Radigan
+#+BIBLIOGRAPHY bibliography plain options:-d
+
+ # *EOF* 
